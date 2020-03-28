@@ -20,7 +20,7 @@
 * CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
  */
 
-package bearlibterminal
+package bearlibterminalgo
 
 // #cgo LDFLAGS: -lBearLibTerminal
 // #include <stdlib.h>
