@@ -1,3 +1,3 @@
-module github.com/jcerise/bearlibterminalgo
+module github.com/gogue-framework/bearlibterminalgo
 
 go 1.13
